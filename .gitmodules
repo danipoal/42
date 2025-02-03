@@ -1,6 +1,8 @@
 [submodule "0 - Libft"]
 	path = 0 - Libft
 	url = https://github.com/danipoal/Libft.git
+	branch = main
 [submodule "1 - Printf"]
 	path = 1 - Printf
 	url = https://github.com/danipoal/Printf.git
+	branch = main
