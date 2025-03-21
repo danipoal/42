@@ -6,3 +6,6 @@
 	path = 1 - Printf
 	url = https://github.com/danipoal/Printf.git
 	branch = main
+[submodule "2 - GNL"]
+	path = 2 - GNL
+	url = https://github.com/danipoal/GNL.git
