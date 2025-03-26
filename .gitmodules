@@ -9,3 +9,9 @@
 [submodule "2 - GNL"]
 	path = 2 - GNL
 	url = https://github.com/danipoal/GNL.git
+[submodule "Piscine"]
+	path = Piscine
+	url = https://github.com/danipoal/42piscine.git
+[submodule "Piscine Reloaded"]
+	path = Piscine Reloaded
+	url = https://github.com/danipoal/42C-Reloaded.git
